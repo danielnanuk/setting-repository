@@ -1,10 +1,18 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorSelectWord" />
   <action id="ExportToTextFile" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -13,7 +21,9 @@
   </action>
   <action id="GuiDesigner.CreateListener" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NextTab" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="PreviousTab" />
 </keymap>
