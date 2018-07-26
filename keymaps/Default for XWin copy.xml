@@ -9,10 +9,14 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoChangedFile" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -21,6 +25,9 @@
   </action>
   <action id="GuiDesigner.CreateListener" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="NextTab" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="alt o" />
