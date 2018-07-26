@@ -300,6 +300,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="119" />
     <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
