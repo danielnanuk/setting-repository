@@ -17,7 +17,7 @@
     <mask>*Impl.Java</mask>
     <mask>*Dao.Java</mask>
     <mask>MsgNotify.Java</mask>
-    <mask>*.properties</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
