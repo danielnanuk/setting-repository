@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../common/src/main/java/com/wlqq/loan/msg/constants/Constant.java [msg-common]'" />
+    <option name="defaultScopeName" value="File '.../common/src/main/java/com/wlqq/loan/msg/constants/Constant.java [msg-common]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../common/src/main/java/com/wlqq/loan/msg/constants/Constant.java [msg-common]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
