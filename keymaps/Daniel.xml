@@ -1,13 +1,10 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Daniel" parent="Default for GNOME">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-  <action id="EditorSelectWord" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -15,6 +12,9 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass">
@@ -39,5 +39,9 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PreviousTab" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="context.load" />
+  <action id="tasks.switch" />
 </keymap>
